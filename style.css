@@ -1,0 +1,34 @@
+
+ header, footer{
+    background-color:darkcyan;
+    
+ }
+ body{
+    background-color: bisque;
+ }
+ .column{
+   flex:35%;
+   padding:35px;
+   
+    
+ }
+ .row{margin-left: 125px; 
+ }
+
+ 
+ header img {
+   
+   padding-left: 700px;
+ }
+ header h1{
+   padding-left: 730px;
+ }
+ header p{
+    padding-left: 1000px;
+     
+ }
+ nav{
+    float: left;
+    padding: 50px;
+ }
+  
