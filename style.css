@@ -9,13 +9,9 @@
  .column{
    flex:35%;
    padding:35px;
-   
-    
  }
  .row{margin-left: 125px; 
  }
-
- 
  header img {
    
    padding-left: 700px;
@@ -25,10 +21,22 @@
  }
  header p{
     padding-left: 1000px;
-     
  }
  nav{
     float: left;
     padding: 50px;
  }
-  
+a:link{
+   display: block;
+}
+ a:link, a:visited{
+   text-decoration: none;
+   color:cornflowerblue;
+   line-height: 1.6;
+}
+a:hover{
+   text-decoration: underline;
+   color:white;
+   line-height: 1.6;
+}
+
